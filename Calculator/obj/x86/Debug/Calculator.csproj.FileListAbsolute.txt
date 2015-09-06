@@ -1,0 +1,4 @@
+E:\git_local\Beta Calculator\Calculator\bin\Debug\Calculator.exe
+E:\git_local\Beta Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.pdb
