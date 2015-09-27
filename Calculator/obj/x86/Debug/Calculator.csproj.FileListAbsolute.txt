@@ -2,3 +2,13 @@ E:\git_local\Beta Calculator\Calculator\bin\Debug\Calculator.exe
 E:\git_local\Beta Calculator\Calculator\bin\Debug\Calculator.pdb
 E:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.exe
 E:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\git_local\Beta Calculator\BuildArtifacts\Calculator.exe
+E:\git_local\Beta Calculator\BuildArtifacts\Calculator.pdb
+E:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\git_local\Beta Calculator\BuildArtifacts\Calculator.exe
+D:\git_local\Beta Calculator\BuildArtifacts\Calculator.pdb
+D:\git_local\Beta Calculator\Calculator\bin\Debug\Calculator.exe
+D:\git_local\Beta Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache

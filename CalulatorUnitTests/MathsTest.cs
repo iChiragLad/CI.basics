@@ -7,11 +7,11 @@ namespace CalulatorUnitTests
     
     
     /// <summary>
-    ///This is a test class for MathsTest and is intended
-    ///to contain all MathsTest Unit Tests
+    ///This is a test class for LogicTest and is intended
+    ///to contain all LogicTest Unit Tests
     ///</summary>
     [TestClass()]
-    public class MathsTest
+    public class LogicTest
     {
 
 
@@ -70,7 +70,7 @@ namespace CalulatorUnitTests
         [TestMethod()]
         public void AdditionTest()
         {
-            Maths target = new Maths(); // TODO: Initialize to an appropriate value
+            Logic target = new Logic(); // TODO: Initialize to an appropriate value
             int a = 10; // TODO: Initialize to an appropriate value
             int b = 20; // TODO: Initialize to an appropriate value
             int expected = 30; // TODO: Initialize to an appropriate value
@@ -85,7 +85,7 @@ namespace CalulatorUnitTests
         [TestMethod()]
         public void DivisionTest()
         {
-            Maths target = new Maths(); // TODO: Initialize to an appropriate value
+            Logic target = new Logic(); // TODO: Initialize to an appropriate value
             int a = 10; // TODO: Initialize to an appropriate value
             int b = 5; // TODO: Initialize to an appropriate value
             int expected = 2; // TODO: Initialize to an appropriate value
@@ -100,7 +100,7 @@ namespace CalulatorUnitTests
         [TestMethod()]
         public void MultiplicationTest()
         {
-            Maths target = new Maths(); // TODO: Initialize to an appropriate value
+            Logic target = new Logic(); // TODO: Initialize to an appropriate value
             int a = 2; // TODO: Initialize to an appropriate value
             int b = 5; // TODO: Initialize to an appropriate value
             int expected = 10; // TODO: Initialize to an appropriate value
@@ -115,7 +115,7 @@ namespace CalulatorUnitTests
         [TestMethod()]
         public void SubstarctionTest()
         {
-            Maths target = new Maths(); // TODO: Initialize to an appropriate value
+            Logic target = new Logic(); // TODO: Initialize to an appropriate value
             int a = 10; // TODO: Initialize to an appropriate value
             int b = 5; // TODO: Initialize to an appropriate value
             int expected = 5; // TODO: Initialize to an appropriate value

@@ -9,7 +9,7 @@
     <ProjectGuid>{B87E041A-8B54-454F-A6A8-23AB40B7D438}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CalulatorUnitTests</RootNamespace>
+    <RootNamespace>CalculatorUnitTests</RootNamespace>
     <AssemblyName>CalulatorUnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
