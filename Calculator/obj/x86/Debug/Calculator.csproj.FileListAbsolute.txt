@@ -11,3 +11,4 @@ D:\git_local\Beta Calculator\Calculator\bin\Debug\Calculator.exe
 D:\git_local\Beta Calculator\Calculator\bin\Debug\Calculator.pdb
 D:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.exe
 D:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+D:\git_local\Beta Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache

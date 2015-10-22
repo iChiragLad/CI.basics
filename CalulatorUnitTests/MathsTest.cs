@@ -71,9 +71,9 @@ namespace CalulatorUnitTests
         public void AdditionTest()
         {
             Logic target = new Logic(); // TODO: Initialize to an appropriate value
-            int a = 30; // TODO: Initialize to an appropriate value
+            int a = 80; // TODO: Initialize to an appropriate value
             int b = 20; // TODO: Initialize to an appropriate value
-            int expected = 50; // TODO: Initialize to an appropriate value
+            int expected = 100; // TODO: Initialize to an appropriate value
             int actual;
             actual = target.Addition(a, b);
             Assert.AreEqual(expected, actual);
