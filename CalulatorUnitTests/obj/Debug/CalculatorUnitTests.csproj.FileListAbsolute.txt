@@ -1,0 +1,9 @@
+D:\git_local\Beta Calculator\BuildArtifacts\CalulatorUnitTests.dll
+D:\git_local\Beta Calculator\BuildArtifacts\CalulatorUnitTests.pdb
+D:\git_local\Beta Calculator\CalulatorUnitTests\bin\Debug\CalulatorUnitTests.dll
+D:\git_local\Beta Calculator\CalulatorUnitTests\bin\Debug\CalulatorUnitTests.pdb
+D:\git_local\Beta Calculator\CalulatorUnitTests\bin\Debug\Calculator.exe
+D:\git_local\Beta Calculator\CalulatorUnitTests\bin\Debug\Calculator.pdb
+D:\git_local\Beta Calculator\CalulatorUnitTests\obj\Debug\CalculatorUnitTests.csprojResolveAssemblyReference.cache
+D:\git_local\Beta Calculator\CalulatorUnitTests\obj\Debug\CalulatorUnitTests.dll
+D:\git_local\Beta Calculator\CalulatorUnitTests\obj\Debug\CalulatorUnitTests.pdb

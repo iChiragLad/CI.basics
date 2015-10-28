@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="98413d39-4cb1-47b8-9343-32f9d35969b5" name="chira@DESKTOP-6C9RJ26 2015-09-27 22:24:46" runUser="DESKTOP-6C9RJ26\chira" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="2f6c3318-f323-4fdd-bc70-bf1771bdc9ef">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="chira_DESKTOP-6C9RJ26 2015-09-27 22_24_46">
+      <DeploymentItem filename="D:\git_local\Beta Calculator\Calculator\bin\Debug\Calculator.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2015-09-27T22:24:46.7801892+05:30" queuing="2015-09-27T22:24:46.8114408+05:30" start="2015-09-27T22:24:46.8270675+05:30" finish="2015-09-27T22:24:47.1552034+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="4" executed="4" passed="4" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="SubstarctionTest" storage="d:\git_local\beta calculator\calulatorunittests\bin\debug\calulatorunittests.dll" id="c550d116-678b-7688-2618-a49f3a748523">
+      <Execution id="0150dcb4-b4c0-4361-9f92-efd99d7cf226" />
+      <TestMethod codeBase="D:/git_local/Beta Calculator/CalulatorUnitTests/bin/Debug/CalulatorUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalulatorUnitTests.LogicTest, CalulatorUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="SubstarctionTest" />
+    </UnitTest>
+    <UnitTest name="MultiplicationTest" storage="d:\git_local\beta calculator\calulatorunittests\bin\debug\calulatorunittests.dll" id="a3e73bfa-bb3f-03ea-6577-73cda75a3eb6">
+      <Execution id="05973cd3-cf21-4206-9c56-b4b1b29b993e" />
+      <TestMethod codeBase="D:/git_local/Beta Calculator/CalulatorUnitTests/bin/Debug/CalulatorUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalulatorUnitTests.LogicTest, CalulatorUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="MultiplicationTest" />
+    </UnitTest>
+    <UnitTest name="AdditionTest" storage="d:\git_local\beta calculator\calulatorunittests\bin\debug\calulatorunittests.dll" id="ef32a794-3341-06af-41e3-6d4bf242f136">
+      <Execution id="ed2856ea-db44-49b0-94ec-dfc2196560bf" />
+      <TestMethod codeBase="D:/git_local/Beta Calculator/CalulatorUnitTests/bin/Debug/CalulatorUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalulatorUnitTests.LogicTest, CalulatorUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="AdditionTest" />
+    </UnitTest>
+    <UnitTest name="DivisionTest" storage="d:\git_local\beta calculator\calulatorunittests\bin\debug\calulatorunittests.dll" id="7355ead3-a3a1-487c-8c2d-2c8199d31321">
+      <Execution id="de5b2606-9028-46b9-9e26-2e4afe9e5c87" />
+      <TestMethod codeBase="D:/git_local/Beta Calculator/CalulatorUnitTests/bin/Debug/CalulatorUnitTests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CalulatorUnitTests.LogicTest, CalulatorUnitTests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="DivisionTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="7355ead3-a3a1-487c-8c2d-2c8199d31321" executionId="de5b2606-9028-46b9-9e26-2e4afe9e5c87" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a3e73bfa-bb3f-03ea-6577-73cda75a3eb6" executionId="05973cd3-cf21-4206-9c56-b4b1b29b993e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c550d116-678b-7688-2618-a49f3a748523" executionId="0150dcb4-b4c0-4361-9f92-efd99d7cf226" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="ef32a794-3341-06af-41e3-6d4bf242f136" executionId="ed2856ea-db44-49b0-94ec-dfc2196560bf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="de5b2606-9028-46b9-9e26-2e4afe9e5c87" testId="7355ead3-a3a1-487c-8c2d-2c8199d31321" testName="DivisionTest" computerName="DESKTOP-6C9RJ26" duration="00:00:00.0253965" startTime="2015-09-27T22:24:46.8270675+05:30" endTime="2015-09-27T22:24:47.1083265+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="de5b2606-9028-46b9-9e26-2e4afe9e5c87">
+    </UnitTestResult>
+    <UnitTestResult executionId="05973cd3-cf21-4206-9c56-b4b1b29b993e" testId="a3e73bfa-bb3f-03ea-6577-73cda75a3eb6" testName="MultiplicationTest" computerName="DESKTOP-6C9RJ26" duration="00:00:00.0004538" startTime="2015-09-27T22:24:47.1083265+05:30" endTime="2015-09-27T22:24:47.1239527+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="05973cd3-cf21-4206-9c56-b4b1b29b993e">
+    </UnitTestResult>
+    <UnitTestResult executionId="0150dcb4-b4c0-4361-9f92-efd99d7cf226" testId="c550d116-678b-7688-2618-a49f3a748523" testName="SubstarctionTest" computerName="DESKTOP-6C9RJ26" duration="00:00:00.0003500" startTime="2015-09-27T22:24:47.1239527+05:30" endTime="2015-09-27T22:24:47.1239527+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0150dcb4-b4c0-4361-9f92-efd99d7cf226">
+    </UnitTestResult>
+    <UnitTestResult executionId="ed2856ea-db44-49b0-94ec-dfc2196560bf" testId="ef32a794-3341-06af-41e3-6d4bf242f136" testName="AdditionTest" computerName="DESKTOP-6C9RJ26" duration="00:00:00.0003451" startTime="2015-09-27T22:24:47.1239527+05:30" endTime="2015-09-27T22:24:47.1395785+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ed2856ea-db44-49b0-94ec-dfc2196560bf">
+    </UnitTestResult>
+  </Results>
+</TestRun>
