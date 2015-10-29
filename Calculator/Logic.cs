@@ -10,6 +10,7 @@ namespace Calculator
 {
     using System;
     using System.Collections.Generic;
+    using System.Diagnostics.CodeAnalysis;
     using System.Linq;
     using System.Text;
 
@@ -18,6 +19,8 @@ namespace Calculator
     /// </summary>
     public class Logic
     {
+        [SuppressMessage("StyleCop.CSharp.LayoutRules", "SA1515:SingleLineCommentMustBePrecededByBlankLine", Justification = "Reviewed.")]
+
         /// <summary>
         /// Perform addition on the input parameters.
         /// </summary>
@@ -29,6 +32,8 @@ namespace Calculator
         {
             return a + b;
         }
+
+        [SuppressMessage("StyleCop.CSharp.LayoutRules", "SA1515:SingleLineCommentMustBePrecededByBlankLine", Justification = "Reviewed.")]
 
         /// <summary>
         /// Perform subtraction on the input parameters.
@@ -42,6 +47,8 @@ namespace Calculator
             return a - b;
         }
 
+        [SuppressMessage("StyleCop.CSharp.LayoutRules", "SA1515:SingleLineCommentMustBePrecededByBlankLine", Justification = "Reviewed.")]
+
         /// <summary>
         /// Perform Multiplication on the input parameters.
         /// </summary>
@@ -53,6 +60,8 @@ namespace Calculator
         {
             return a * b;
         }
+
+        [SuppressMessage("StyleCop.CSharp.LayoutRules", "SA1515:SingleLineCommentMustBePrecededByBlankLine", Justification = "Reviewed.")]
 
         /// <summary>
         /// Perform Division on the input parameters.
