@@ -6,8 +6,6 @@
 // <author>Chirag Lad</author>
 //-----------------------------------------------------------------------
 
-// yo bacb
-
 namespace Calculator
 {
     using System;
@@ -26,7 +24,7 @@ namespace Calculator
         /// <param name="a">First parameter.</param>
         /// <param name="b">Second parameter.</param>
         /// <returns>Returns integer.</returns>
-        // <CreatedBy>Chir</CreatedBy>
+        // <CreatedBy>Chirag Lad.</CreatedBy>
         public int Addition(int a, int b)
         {
             return a + b;
@@ -77,6 +75,4 @@ namespace Calculator
             Console.WriteLine("Answer is : {0}", result);
         }
     }
-
-    // baby
 }
