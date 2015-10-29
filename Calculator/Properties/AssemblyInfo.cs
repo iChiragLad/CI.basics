@@ -1,4 +1,11 @@
-﻿using System.Reflection;
+﻿//-----------------------------------------------------------------------
+// <copyright file="AssemblyInfo.cs" company="ABC">
+//     Copyright (c) ABC Enterprises. All rights reserved.
+// </copyright>
+// <summary>This is the AssemblyInfo class.</summary>
+// <author>Chirag Lad</author>
+//-----------------------------------------------------------------------
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
 

@@ -1,35 +1,82 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿//-----------------------------------------------------------------------
+// <copyright file="Logic.cs" company="ABC">
+//     Copyright (c) ABC Enterprises. All rights reserved.
+// </copyright>
+// <summary>This is the Logic class.</summary>
+// <author>Chirag Lad</author>
+//-----------------------------------------------------------------------
+
+// yo bacb
 
 namespace Calculator
 {
-    class Logic
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
+    /// <summary>
+    /// Logic behind the calculator.
+    /// </summary>
+    public class Logic
     {
+        /// <summary>
+        /// Perform addition on the input parameters.
+        /// </summary>
+        /// <param name="a">First parameter.</param>
+        /// <param name="b">Second parameter.</param>
+        /// <returns>Returns integer.</returns>
+        // <CreatedBy>Chir</CreatedBy>
         public int Addition(int a, int b)
         {
             return a + b;
         }
 
+        /// <summary>
+        /// Perform subtraction on the input parameters.
+        /// </summary>
+        /// <param name="a">First parameter.</param>
+        /// <param name="b">Second parameter.</param>
+        /// <returns>Returns integer.</returns>
+        // <CreatedBy>Chirag Lad.</CreatedBy>
         public int Substarction(int a, int b)
         {
             return a - b;
         }
 
+        /// <summary>
+        /// Perform Multiplication on the input parameters.
+        /// </summary>
+        /// <param name="a">First parameter.</param>
+        /// <param name="b">Second parameter.</param>
+        /// <returns>Returns integer.</returns>
+        // <CreatedBy>Chirag Lad.</CreatedBy>
         public int Multiplication(int a, int b)
         {
             return a * b;
         }
 
+        /// <summary>
+        /// Perform Division on the input parameters.
+        /// </summary>
+        /// <param name="a">First parameter.</param>
+        /// <param name="b">Second parameter.</param>
+        /// <returns>Returns integer.</returns>
+        // <CreatedBy>Chirag Lad.</CreatedBy>
         public int Division(int a, int b)
         {
             return a / b;
         }
 
-        public void display(int result)
+        /// <summary>
+        /// Displays the specified result.
+        /// </summary>
+        /// <param name="result">The result.</param>
+        public void Display(int result)
         {
             Console.WriteLine("Answer is : {0}", result);
         }
     }
+
+    // baby
 }

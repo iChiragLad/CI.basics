@@ -1,17 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
+﻿//-----------------------------------------------------------------------
+// <copyright file="Program.cs" company="ABC">
+//     Copyright (c) ABC Enterprises. All rights reserved.
+// </copyright>
+// <summary>This is the Program class.</summary>
+// <author>Chirag Lad</author>
+//-----------------------------------------------------------------------
 
 namespace Calculator
 {
-    class Program
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+    using System.Text;
+
+    /// <summary>
+    /// Main program entry point.
+    /// </summary>
+    public class Program
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// Entry point.
+        /// </summary>
+        /// <param name="args">Command line arguments.</param>
+        public static void Main(string[] args)
         {
-            Logic m_Maths = new Logic();
-            int result = m_Maths.Addition(10, 20);
-            m_Maths.display(result);
+            Logic maths = new Logic();
+            int result = maths.Addition(10, 20);
+            maths.Display(result);
 
             Console.ReadLine();
         }
