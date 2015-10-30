@@ -41,7 +41,7 @@ namespace Calculator
         /// <param name="a">First parameter.</param>
         /// <param name="b">Second parameter.</param>
         /// <returns>Returns integer.</returns>
-        // <CreatedBy>Chirag La</CreatedBy>
+        // <CreatedBy>Chirag L</CreatedBy>
         public int Substarction(int a, int b)
         {
             return a - b;
