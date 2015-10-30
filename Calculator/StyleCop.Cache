@@ -78,14 +78,11 @@
     </timestamps>
     <violations />
   </sourcecode>
-  <project key="-589667013">
-    <configuration>DEBUG;TRACE</configuration>
-  </project>
   <sourcecode name="Logic.cs" parser="StyleCop.CSharp.CsParser">
     <timestamps>
       <styleCop>2014-04-01 10:18:24.000</styleCop>
       <settingsFile>2015-10-30 00:53:57.072</settingsFile>
-      <sourceFile>2015-10-31 00:16:50.294</sourceFile>
+      <sourceFile>2015-10-31 00:25:21.104</sourceFile>
       <parser>2014-04-01 10:18:24.000</parser>
       <NamingConventionsByChirag.NamingConventions>2014-04-01 10:18:24.000</NamingConventionsByChirag.NamingConventions>
       <NamingConventionsByChirag.NamingConventions.FilesHashCode>0</NamingConventionsByChirag.NamingConventions.FilesHashCode>
@@ -106,4 +103,7 @@
     </timestamps>
     <violations />
   </sourcecode>
+  <project key="-589667013">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
 </stylecopresultscache>
