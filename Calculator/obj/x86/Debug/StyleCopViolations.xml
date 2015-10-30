@@ -1,4 +1,1 @@
-<StyleCopViolations>
-  <Violation LineNumber="1" Source="D:\git_local\Beta Calculator\Calculator\Logic.cs" RuleNamespace="NamingConventionsByChirag.NamingConventions" Rule="CreatedByRule" RuleId="EX7777">Should only be created by Chirag Lad.</Violation>
-  <Violation LineNumber="9" Source="D:\git_local\Beta Calculator\Calculator\Logic.cs" RuleNamespace="NamingConventionsByChirag.NamingConventions" Rule="CreatedByRule" RuleId="EX7777">Should only be created by Chirag Lad.</Violation>
-</StyleCopViolations>
+<StyleCopViolations />

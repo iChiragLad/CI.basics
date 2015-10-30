@@ -69,7 +69,7 @@ namespace Calculator
         /// <param name="a">First parameter.</param>
         /// <param name="b">Second parameter.</param>
         /// <returns>Returns integer.</returns>
-        // <CreatedBy>Chirag La</CreatedBy>
+        // <CreatedBy>Chirag Lad.</CreatedBy>
         public int Division(int a, int b)
         {
             return a / b;
