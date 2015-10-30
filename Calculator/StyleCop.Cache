@@ -85,7 +85,7 @@
     <timestamps>
       <styleCop>2014-04-01 10:18:24.000</styleCop>
       <settingsFile>2015-10-30 00:53:57.072</settingsFile>
-      <sourceFile>2015-10-30 00:54:50.536</sourceFile>
+      <sourceFile>2015-10-31 00:16:50.294</sourceFile>
       <parser>2014-04-01 10:18:24.000</parser>
       <NamingConventionsByChirag.NamingConventions>2014-04-01 10:18:24.000</NamingConventionsByChirag.NamingConventions>
       <NamingConventionsByChirag.NamingConventions.FilesHashCode>0</NamingConventionsByChirag.NamingConventions.FilesHashCode>
@@ -104,17 +104,6 @@
       <StyleCop.CSharp.SpacingRules>2014-04-01 10:18:24.000</StyleCop.CSharp.SpacingRules>
       <StyleCop.CSharp.SpacingRules.FilesHashCode>0</StyleCop.CSharp.SpacingRules.FilesHashCode>
     </timestamps>
-    <violations>
-      <violation namespace="NamingConventionsByChirag.NamingConventions" rule="CreatedByRule" ruleCheckId="EX7777">
-        <context>Should only be created by Chirag Lad.</context>
-        <line>1</line>
-        <warning>False</warning>
-      </violation>
-      <violation namespace="NamingConventionsByChirag.NamingConventions" rule="CreatedByRule" ruleCheckId="EX7777">
-        <context>Should only be created by Chirag Lad.</context>
-        <line>9</line>
-        <warning>False</warning>
-      </violation>
-    </violations>
+    <violations />
   </sourcecode>
 </stylecopresultscache>
